@@ -1,0 +1,25 @@
+{
+  "repository": "module-analytics-core-dart-desktop",
+  "capabilityKey": "liberusoftware/analytics-core",
+  "presentation": "dart-desktop",
+  "package": "module_analytics_core_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/boilerplate/nextjs/analytics-core.md",
+  "presentationPlan": "projects/boilerplate/features/analytics-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
